@@ -1,7 +1,7 @@
 ---
-layout: slide
-title: “Welcome to our second slide!”
+layout: pass
+title: “Welcome home!”
 ---
 Your test
-Use the left arrow to go back!
+Use brain!
 
